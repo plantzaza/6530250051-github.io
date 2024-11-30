@@ -1,7 +1,7 @@
 ## Chayanon Pansaguan 
 # 6530250051 
 
-<p>PLANT</p>
+<h1>PLANT</h1>
 
 ![Alt text](IMG_1580.jpeg)
 
