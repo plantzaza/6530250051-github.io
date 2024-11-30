@@ -7,4 +7,4 @@
 <br>
 <a href = "https://plantzaza.github.io/loopcoverage1" >LOOP COVERAGE CISSP GLOSSARY</a>
 <br>
-<a href = ""
+
