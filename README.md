@@ -4,7 +4,7 @@
 - **PLANT**  
 - **Namoo**  
 
-![Alt text](IMG_1580.jpeg)  
+![Alt text](images/IMG_1580.jpeg)  
 
 [Surachart](https://srchx.github.io/)  
 [LOOP COVERAGE CISSP GLOSSARY](https://plantzaza.github.io/loopcoverage1)  
