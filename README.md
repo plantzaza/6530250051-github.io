@@ -4,7 +4,8 @@
 - **PLANT**  
 - **Namoo**  
 
-![IMG_1580](images/IMG_1580.jpeg)
+![IMG_1580](https://raw.githubusercontent.com/plantzaza/plantzaza.github.io/main/images/IMG_1580.jpeg)
+
   
 
 [Surachart](https://srchx.github.io/)  
