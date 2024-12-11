@@ -18,4 +18,4 @@
 1. การตรวจสอบขั้นตอนในการทำงาน
 2. การทบทวนแผนการหรือขั้นตอนการทำงาน
 
-[BACK](https://plantzaza.github.io/loopcoverage1)  
+[BACK](https://plantzaza.github.io)  
