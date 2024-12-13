@@ -10,5 +10,5 @@
   
 
 [Surachart](https://srchx.github.io/)  
-[LOOP COVERAGE CISSP GLOSSARY](https://plantzaza.github.io/loopcoverage1)  
-[LOOP COVERAGE 2nd](https://plantzaza.github.io/loopcoverage2)
+[LOOP COVERAGE CISSP GLOSSARY](https://plantzaza.github.io/loopcoverage)  
+
