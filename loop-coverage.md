@@ -38,4 +38,4 @@ One of the more useful suggests that a loop is covered if in at least one test t
 ทดสอบแอพพลิเคชัน ทดสอบการทำซ้ำ การโหลดโพสต์ในโซเชียล หรือ การเลื่อนดูสินค้า
 
 
-[BACK](https://plantzaza.github.io)  
+[BACK](README.md)  
