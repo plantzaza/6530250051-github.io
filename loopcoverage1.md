@@ -18,7 +18,7 @@
 1. การตรวจสอบขั้นตอนในการทำงาน
 2. การทบทวนแผนการหรือขั้นตอนการทำงาน
 
-3. ## cs.odu.edu Glossary
+## cs.odu.edu Glossary
 Loop Coverage // Various definitions of loop coverage exist.
 One of the more useful suggests that a loop is covered if in at least one test the body was executed 0 times, and if in some test the body was executed exactly once, and if in some test the body was executed more than once.
 <br>
