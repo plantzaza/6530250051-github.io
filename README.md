@@ -10,6 +10,6 @@
   
 
 [Surachart](https://srchx.github.io/)  
-[LOOP COVERAGE CISSP GLOSSARY](loop-coverage)
+[LOOP COVERAGE CISSP GLOSSARY](loop-coverage.md)
 
 
