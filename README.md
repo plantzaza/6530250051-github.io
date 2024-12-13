@@ -4,7 +4,8 @@
 - **PLANT**  
 - **Namoo**  
 
-![IMG_1580](https://raw.githubusercontent.com/plantzaza/plantzaza.github.io/main/images/im.jpeg)
+![IMG_1580](images/im.jpeg)
+
 
   
 
