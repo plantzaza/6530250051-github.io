@@ -21,7 +21,7 @@ Loop Coverage เป็นส่วนสำคัญในกระบวนก
 ## cs.odu.edu Glossary
 Loop Coverage // Various definitions of loop coverage exist.
 One of the more useful suggests that a loop is covered if in at least one test the body was executed 0 times, and if in some test the body was executed exactly once, and if in some test the body was executed more than once.
-<br>
+
 ## ChatGPT Translate 
 มีนิยามต่าง ๆ ของ Loop Coverage อยู่หลายแบบ โดยหนึ่งในนิยามที่มีประโยชน์ที่สุดระบุว่า ลูปจะถือว่าได้รับการครอบคลุมหากมีการทดสอบที่:
 	•	ร่างกายของลูป (loop body) ไม่ถูกดำเนินการเลยอย่างน้อยหนึ่งครั้ง
