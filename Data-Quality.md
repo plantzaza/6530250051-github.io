@@ -30,7 +30,6 @@ My Summary: AI is a branch of technology that allows machines to perform tasks t
 
 Sample: A self-driving car uses AI to understand its environment, make decisions on the road, and navigate without human intervention.
 
-Let me know if you'd like me to apply this structure to a specific topic!
 
 
 
