@@ -1,4 +1,13 @@
 # Reliability
+## def
+Reliability
+Good-quality data builds trust, and reliability will help ensure you can trust your data and build confidence across your organization. For data quality, reliability means that a piece of information doesn’t contradict the same or another piece of information existing in a different source or system.
+
+Imagine you’re tracking a customer’s birthdate in two unconnected databases. In one system, your customer’s birthday is listed as 12/9/1982, while in the other, it says 12/9/83. These contradictory values for the same data point render your data unreliable.
+
+If your data contradicts its own past or another source’s data, it can signify inaccuracy and hurt your business’s ability to trust and use the collected information.
+
+
 ## Meaning by ChatGPT
 
 ความน่าเชื่อถือ (Reliability)
