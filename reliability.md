@@ -1,5 +1,5 @@
 # Reliability
-## def
+
 Reliability
 Good-quality data builds trust, and reliability will help ensure you can trust your data and build confidence across your organization. For data quality, reliability means that a piece of information doesn’t contradict the same or another piece of information existing in a different source or system.
 
