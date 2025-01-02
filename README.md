@@ -11,6 +11,6 @@
 
 [Surachart](https://srchx.github.io/)  
 [LOOP COVERAGE CISSP GLOSSARY](loop-coverage.md)  
-[Data Quality](data-quality.md)  
+[Definition Meaning](definition.md)  
 [E-CARD](e-card.md)  
 
